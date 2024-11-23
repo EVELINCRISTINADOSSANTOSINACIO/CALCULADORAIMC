@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Fugaz+One&display=swap');
+
+.fugaz-one-regular {
+    font-family: "Fugaz One", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+body{
+font-family:"Fugaz One", sans-serif;
+font-weight: 600;
+}
+
+header{
+    padding:5vh 5vw ;
+    background: linear-gradient(white 0%, blue 25%, black 75%);
+   margin-bottom:5vh;
+}
+   .yellow {
+    color:yellow;
+    font-weight: bold;
+
+   }
+   .orange {
+    color: orange;
+    font-weight:bold;
+
+   }
+   .red {
+    color:red;
+    font-weight: bold;
+
+   }
+   .green {
+    color:green;
+    font-weight:bold;
+   }
